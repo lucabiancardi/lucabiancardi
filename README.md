@@ -1,24 +1,51 @@
-# Ciao, sono Luca Biancardi 👋
+# Hi, I'm Luca Biancardi 👋
 
-Sviluppatore Web & Android. Mi occupo di trasformare requisiti complessi in soluzioni digitali intuitive, curando l'intero ciclo di vita del progetto, dalla progettazione dell'infrastruttura fino alla User Interface.
+Web & Android Developer from Italy. I transform complex requirements into intuitive digital solutions, taking care of the entire project lifecycle, from infrastructure design to the User Interface.
 
-## 🛠️ Competenze Tecniche
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-University%20Student-blue?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Location-Italy-009246?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+| <img src="https://github-readme-stats.vercel.app/api?username=lucabiancardi&show_icons=true&hide_border=true&bg_color=transparent&title_color=4ADE80&icon_color=4ADE80&locale=en" width="100%" /> |
+| :--- |
+| **Passionate Full-Stack and Mobile Developer**<br>I focus my efforts on clean code, performance, and elegant design.<br>Currently expanding my skills in cloud technologies and native app architecture. |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,android,figma,sqlite,git" alt="My Skills" />
+    <!-- Changed 'android' to 'androidstudio' to fix the missing icon gap -->
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,androidstudio,figma,sqlite,git" alt="My Skills" />
   </a>
 </p>
 
-## 🚀 Progetti in Evidenza
+---
 
-* **[Ottica Zambelli]** — Sviluppo completo del sito web e dell'infrastruttura gestionale. Gestione del ciclo di vita del progetto end-to-end, inclusa l'acquisizione dei diritti di dominio e il deployment.
-* **[Android Fitness Tracker]** — Applicazione nativa in Java per tracciare routine di allenamento. Interfaccia costruita con i protocolli Material 3 e database locale SQLite per gestire lo storico e le statistiche.
+## 🚀 Featured Projects
 
-## 📊 Statistiche GitHub
+* **[Ottica Zambelli]** — Full development of a showcase website and its management infrastructure. Managed the end-to-end project lifecycle, including domain rights acquisition and deployment.
+* **[Android Fitness Tracker]** — Native Java mobile application to track workout routines. User interface built following Material 3 guidelines, paired with a local SQLite database to manage history and statistics.
 
-![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=lucabiancardi&show_icons=true&hide_border=true&bg_color=transparent&title_color=4ADE80&icon_color=4ADE80)
+---
 
-## 📫 Contatti
+## 📊 GitHub Stats
 
-* **Email:** <a href="mailto:lucabiancardi06@gmail.com">lucabiancardi06@gmail.com</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabiancardi&layout=compact&hide_border=true&bg_color=transparent&title_color=4ADE80&locale=en" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+| Contact | Link |
+| :--- | :--- |
+| **Email** | [lucabiancardi06@gmail.com](mailto:lucabiancardi06@gmail.com) |
+| **GitHub** | [https://github.com/lucabiancardi](https://github.com/lucabiancardi) |
